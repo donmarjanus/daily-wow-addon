@@ -1,0 +1,5 @@
+## Interface: 60200
+## Title: Daily
+## Author: donmarjanus
+## Version: 0.1-SNAPSHOT
+main.lua
